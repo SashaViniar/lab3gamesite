@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body { 
+  background: url(http://cdn2us.denofgeek.com/sites/denofgeekus/files/2016/05/hearthstone.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.textcenter{
+    text-align: center;
+}
+.uter{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.garosh{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.anduin{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.valira{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.trall{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.druid{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.warlock{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.hunter{
+      color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.jayna{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+.myLi{
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}

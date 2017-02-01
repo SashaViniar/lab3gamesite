@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-body { 
+.body { 
   background: url(http://cdn2us.denofgeek.com/sites/denofgeekus/files/2016/05/hearthstone.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+body{
+    background-color: #190B07;
 }
 
 .textcenter{

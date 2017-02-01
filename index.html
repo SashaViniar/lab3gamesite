@@ -338,6 +338,7 @@
     <div class="container">
         <div ng-app="myCardList" ng-controller="myCtrl">
             <ul class="list-group">
+                
                 <li class="myLi" ng-repeat="x in cardlist">{{x}}<span ng-click="removeItem($index)">  ×</span></li>
             </ul>
             <div class="col-md-12">
@@ -359,6 +360,7 @@
                         <th>Firstname</th>
                         <th>Lastname</th>
                         <th>Info</th>
+                        <th>NameCards</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -366,16 +368,19 @@
                         <td>Uter</td>
                         <td>UterLst</td>
                         <td>infouter</td>
+                        <td>Agro</td>
                     </tr>
                     <tr>
                         <td>Trall</td>
                         <td>TrallLast</td>
                         <td>infoTrall</td>
+                        <td>Totem</td>
                     </tr>
                     <tr>
                         <td>Jayna</td>
                         <td>JaynaLast</td>
                         <td>infoJayna</td>
+                        <td>Kolento</td>
                     </tr>
                 </tbody>
             </table>
